@@ -5,13 +5,19 @@
   "header": {
     "title": "Master.Tech",
     "tagline": "Rupe tzepu",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/author.jpg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
   },
   "footer": {
-    "content": "&copy; All rights reserved.",
-    "links": []
+    "content": "Flowmaster.tech&copy; All rights reserved.",
+    "links": [
+      {
+        "new_window": true,
+        "text": "Yo",
+        "url": "www.highkey.cloud"
+      }
+    ]
   }
 }
